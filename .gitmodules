@@ -1,0 +1,3 @@
+[submodule "Date"]
+	path = Date
+	url = git@github.com:remi-boivin/libdate.git
